@@ -4,13 +4,6 @@ A responsive, MovieBox-inspired discovery website built with React. Users can br
 
 > Course: Web and Mobile Application Development – Practical Assignment (Movie Discovery Web Application)
 
-## Screenshots
-
-Add at least two screenshots to a `screenshots/` folder and link them here:
-
-- `screenshots/home.png` – homepage
-- `screenshots/details.png` – movie / TV details view
-
 ## Features
 
 - **Homepage** with a top bar, search field, sidebar navigation and five poster rows (Trending, Popular Movies, Action Movies, Popular TV Shows, Top Rated Movies)
